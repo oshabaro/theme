@@ -1,0 +1,44 @@
+.primary, .swal2-styled.swal2-confirm, .swal2-styled.swal2-deny{
+	background-color: #bc3737 !important;
+}
+.primary:hover{
+	background-color: #bc3737;
+}
+.mainSettinglLogo {
+
+}
+.leftDrawerLogo{
+
+}
+.dashedBorder{
+	border-color: #bc3737;
+}
+.reportInformationTitle, .reportInformationTitle h2{
+	color: #bc3737;
+}
+.leftSide, .leftDrawer{
+	background-color: #fff;
+}
+.leftSide .menuItem, .leftDrawer #close-left-drawer-btn-id, .leftDrawerMenuItem p, .leftDrawerMenuItem svg path{
+	color: #58595B;
+}
+.buttonBorder{
+	border-color: #58595B;
+	color: #58595B;
+}
+.nextBtn {
+	border-color: #58595B;
+	color: #58595B;
+}
+.sideName {
+	color: #58595B;
+}
+.leftDrawerMenuItem svg path, .leftDrawerMenuItem svg circle, .leftDrawerMenuItem svg line{
+	stroke: #58595B;
+}
+.breakLine {
+	border-image: linear-gradient( to right, #BD3737, #7CCAC0 ) 0 0 100%;
+}
+.primarySVG rect{
+	fill: #bc3737;
+}
